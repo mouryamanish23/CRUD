@@ -12,6 +12,6 @@ if($conn){
     echo "failed";
 }
 
-
+echo "Manihs";
 
 ?>
